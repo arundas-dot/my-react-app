@@ -1,6 +1,6 @@
 // import React, { useState } from 'react';
 // import { quizData } from './Data';
-// import "./quiz.css";
+// import "./Quiz.css";
 
 // const Quiz = () => {
 //   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -72,7 +72,7 @@
 
 import React, { useState } from 'react';
 import { quizData } from './Data';
-import "./quiz.css";
+import "./Quiz.css";
 
 const Quiz = () => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
